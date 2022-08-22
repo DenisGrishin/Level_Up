@@ -190,6 +190,7 @@ h6 {
 }
 
 .header-section__title {
+ text-transform: uppercase;
   color: transparent;
   font-weight: 900;
   -webkit-background-clip: text;
